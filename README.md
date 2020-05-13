@@ -1,4 +1,4 @@
-# 2020_python-code-for-M
+# 2020 NAVER_python_for_ML
 부스트코스 '머신러닝을 위한 Python' 과정 in edwith
 
 1) 폴더에는 파이썬을 해오며 그동안 알지 못했던 코드 기법 + 데이터 처리를 위한 파이썬 문법이 적혀있음
